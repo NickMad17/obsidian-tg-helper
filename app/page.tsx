@@ -7,7 +7,7 @@ export default function Home() {
         <div>
             <div className='flex justify-between items-center'>
                 <p className=''>Создай новую заметку, Никита</p>
-                <Avatar >
+                <Avatar>
                     <AvatarImage src="https://github.com/shadcn.png" alt="@user"/>
                     <AvatarFallback>N</AvatarFallback>
                 </Avatar>
